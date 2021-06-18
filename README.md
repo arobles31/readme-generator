@@ -1,6 +1,6 @@
 # README Generator
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-Apache,GNU-General-Public-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-GNU-General-Public-blue)](https://shields.io)
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
@@ -9,15 +9,15 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
   ## Description:
-  Wil generate a README file for all your projects
+  Will generate a README file for all your projects
   ## Installation:
   Download repository from GitHub
   ## Usage:
   Run index.js file
   ## License:
-  Apache,GNU-General-Public
+  GNU-General-Public
   ## Contribution:
-  By using it for all projects and providing feedback
+  By using it for all projects and provide feedback
    ## Additional Info:
   - Github: [arobles31](https://github.com/arobles31)
   - Email:  
